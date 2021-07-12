@@ -12,22 +12,37 @@ Table for import to Tunerstudio:
 https://github.com/Supermagnum/B230FK-FT/blob/main/sparkTbl_B230volvo.table
 
 Ignition sequence:
-1-3-4-2
-Idle rpm: 750
+1-3-4-2,
+
+Idle rpm: 750,
+
 Ignition timing at idle: 12 BTDC
+
 Engine capacity: 2317 CC
+
 163 bhp)121 kW) @ 4800 rpm
+
 264 Nm (194 lb.ft) @ 3450 rpm
+
 Increased idle speed for emissions test : 2400 - 2600 rpm
+
 Co at increased idle speed: 0.3 vol %
+
 Lambda at increased idle: 0.7- 1.03
+
 Spark plugs:
 Bosch WR7DC
+
 Engine oil grade : 5W30
+
 Minimum octane rating : 91 RON
+
 Compression ratio : 1:8.7
+
 ECU ( Volvo 740 1990-1991) Jetronic LH2.4
+
 Ignition ( Volvo 740 1990-1991) EZK 116K, EZ116K Distributor Ignition
+
 I don't know why there are a separate ignition control box,and a ecu box.
 The ecu uses a 35 pin connector,the ezk box a 25 pin connector.Most likely same pin and row distance.
 
@@ -37,15 +52,22 @@ Coil dwell: 4.4mSec running.
 Crank speed type : 60-2
 
 The control unit identifies TDC as the point 90 deg after the passage of the long missing tooth.
+
 Knock sensor : Yes, one.
 Knock ignition degrees per retard step: 2-3°
+
 Max retard: 16 degrees.
+
 Stock max boost: 8 psi, 1.55 bar absolute aka 155kpa. (22.48 PSIG )
+
 No electronic boost control fitted if stock.
+
 Stock injectors: 0280150357 ( 0 280 150 357 ) rated 300 cc/min, EV1 style low impedance.
+
 MAF sensor : 0 280 212 016
 
 Volvo 780 Turbo + ran 196.5 KPA (1.96 Bar absolute.28.42 PSIG) from 3700 rpm and up, boost level under 3700 rpm is 1.55 bar absolute aka 155kpa ) year 1990.
+
 188hp at 4,800 RPM and 206-lbs.ft. of torque at 3,900 RPM, Electronic boost control was fitted to these.
 
 Since about 1990 [late '90 production; early '91 production], the B230 blocks were cast with the 'humps',these are L blocks.
