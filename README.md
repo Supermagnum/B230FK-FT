@@ -1,7 +1,7 @@
 # B230FK-FT
 Stock ignition map for Volvo B230 FT/FK engines with  the 148 EZK ignition box.
 The timing map from the 148 EZK box:
-It seems that it is based on load %, so 255 Kpa is 100%.
+It seems that it is based on MAF load %, so 255 Kpa is 100%.
 30 Kpa is 0%.
 https://github.com/Supermagnum/B230FK-FT/blob/main/B230FT_stock_ignition_map_148EZK.jpg
 
@@ -20,7 +20,7 @@ Ignition timing at idle: 12 BTDC
 
 Engine capacity: 2317 CC
 
-163 bhp)121 kW) @ 4800 rpm
+163 bhp(121 kW) @ 4800 rpm
 
 264 Nm (194 lb.ft) @ 3450 rpm
 
